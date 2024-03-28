@@ -1,0 +1,12 @@
+{
+    "title": "xwasm params change proposal",
+    "description": "Update registry contract address",
+    "changes": [
+        {
+            "subspace": "xwasm",
+            "key": "RegistryContract",
+            "value": "inj14hj2tavq8fpesdwxxcu44rty3hh90vhujaxlnz"
+        }
+    ],
+    "deposit": "500000000000000000000inj"
+}

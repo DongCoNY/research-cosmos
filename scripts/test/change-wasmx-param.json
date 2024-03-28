@@ -1,0 +1,27 @@
+{
+  "title": "Update Registry params in wasmx",
+  "description": "Update Registry params in wasmx params",
+  "changes": [
+    {
+      "subspace": "xwasm",
+      "key": "IsExecutionEnabled",
+      "value": true
+    },
+    {
+      "subspace": "xwasm",
+      "key": "MaxBeginBlockTotalGas",
+      "value": "42000000"
+    },
+    {
+      "subspace": "xwasm",
+      "key": "MaxContractGasLimit",
+      "value": "3500000"
+    },
+    {
+      "subspace": "xwasm",
+      "key": "MinGasPrice",
+      "value": "1000000000"
+    }
+  ],
+  "deposit": "50000000000000000000inj"
+}

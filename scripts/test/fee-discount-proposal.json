@@ -1,0 +1,26 @@
+{
+  "title": "Fee Discount Proposal",
+  "description": "My awesome fee discount proposal",
+  "schedule": {
+    "bucket_count": 5,
+    "bucket_duration": 10,
+    "quote_denoms": [
+      "inj"
+    ],
+    "tier_infos": [
+      {
+        "maker_discount_rate": "0.01",
+        "taker_discount_rate": "0.01",
+        "staked_amount": "1000000000000000000",
+        "fee_paid_amount": "1000000"
+      },
+      {
+        "maker_discount_rate": "0.02",
+        "taker_discount_rate": "0.02",
+        "staked_amount": "2000000000000000000",
+        "fee_paid_amount": "2000000"
+      }
+    ],
+    "disqualified_market_ids": []
+  }
+}

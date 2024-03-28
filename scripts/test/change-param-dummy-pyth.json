@@ -1,0 +1,12 @@
+{
+  "title": "Update Registry params in wasmx",
+  "description": "Update Registry params in wasmx params",
+  "changes": [
+    {
+      "subspace": "oracle",
+      "key": "pyth_contract",
+      "value": ""
+    }
+  ],
+  "deposit": "1000000000000000000inj"
+}

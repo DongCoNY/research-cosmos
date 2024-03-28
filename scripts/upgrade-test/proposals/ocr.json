@@ -1,0 +1,17 @@
+{
+    "title": "OCR params change proposal",
+    "description": "Update OCR admin account & payout interval param",
+    "changes": [
+        {
+            "subspace": "chainlink",
+            "key": "ModuleAdmin",
+            "value": "inj1k2z3chspuk9wsufle69svmtmnlc07rvw9djya7"
+        },
+        {
+            "subspace": "chainlink",
+            "key": "PayoutInterval",
+            "value": "5"
+        }
+    ],
+    "deposit": "500000000000000000000inj"
+}
