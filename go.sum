@@ -244,8 +244,8 @@ github.com/DataDog/zstd v1.5.2/go.mod h1:g4AWEaM3yOg3HYfnJ3YIawPnVdXJh9QME85blwS
 github.com/HdrHistogram/hdrhistogram-go v1.1.2/go.mod h1:yDgFjdqOqDEKOvasDdhWNXYg9BVp4O+o5f6V/ehm6Oo=
 github.com/InjectiveLabs/bandchain-packet v0.0.4-inj-1 h1:ZnvCV/lzjWmBwuGbkAz+okucfJEyEzkU9GYK3tKU9cU=
 github.com/InjectiveLabs/bandchain-packet v0.0.4-inj-1/go.mod h1:QELTDYiwnbAqIgTF9zeKr+hVlK6eVyt6Nxmh6/1mmzQ=
-github.com/InjectiveLabs/cometbft v0.37.2-inj h1:vKLatEKl3qzhvFAgyvywApTuq44K0XooJpDWWP0bSt0=
-github.com/InjectiveLabs/cometbft v0.37.2-inj/go.mod h1:Y2MMMN//O5K4YKd8ze4r9jmk4Y7h0ajqILXbH5JQFVs=
+github.com/InjectiveLabs/cometbft v0.37.2-inj-1 h1:PT+xCcyWA/93+hguuFcWpPDn/z0iJb0ZiqFS1SAzkPE=
+github.com/InjectiveLabs/cometbft v0.37.2-inj-1/go.mod h1:Y2MMMN//O5K4YKd8ze4r9jmk4Y7h0ajqILXbH5JQFVs=
 github.com/InjectiveLabs/cosmos-sdk/math v0.47.3-inj-1 h1:BHZQuZJXJctENiTfIBSH21HyR3a+Zx3Wd7RPz21spFI=
 github.com/InjectiveLabs/cosmos-sdk/math v0.47.3-inj-1/go.mod h1:An0MllWJY6PxibUpnwGk8jOm+a/qIxlKmL5Zyp9NnaM=
 github.com/InjectiveLabs/go-ethereum-hdwallet v0.1.2 h1:g7VMjGh1JPsZUH2+C4jnF9VgP91VGjcVhTrkAmsJSzA=
