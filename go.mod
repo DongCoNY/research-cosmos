@@ -221,7 +221,6 @@ require (
 
 replace (
 	cosmossdk.io/math => github.com/InjectiveLabs/cosmos-sdk/math v0.47.3-inj-1
-	github.com/ChainSafe/go-schnorrkel => github.com/ChainSafe/go-schnorrkel v1.0.0
 	github.com/CosmWasm/wasmd => github.com/InjectiveLabs/wasmd v0.45.0-inj
 	github.com/bandprotocol/bandchain-packet => github.com/InjectiveLabs/bandchain-packet v0.0.4-inj-1
 	github.com/cometbft/cometbft => github.com/DongCoNY/cometbft v0.37.2-inj-1.test.log.12
