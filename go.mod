@@ -223,7 +223,7 @@ replace (
 	cosmossdk.io/math => github.com/InjectiveLabs/cosmos-sdk/math v0.47.3-inj-1
 	github.com/CosmWasm/wasmd => github.com/InjectiveLabs/wasmd v0.45.0-inj
 	github.com/bandprotocol/bandchain-packet => github.com/InjectiveLabs/bandchain-packet v0.0.4-inj-1
-	github.com/cometbft/cometbft => github.com/DongCoNY/cometbft v0.37.2-inj-1.test.log.20
+	github.com/cometbft/cometbft => github.com/DongCoNY/cometbft v0.37.2-inj-1.test.log.21
 	github.com/cosmos/cosmos-sdk => github.com/decentrio/cosmos-sdk-inj-decent v0.47.3-inj-9-profilling-3
 	github.com/cosmos/ibc-go/v7 => github.com/InjectiveLabs/ibc-go/v7 v7.2.0-inj
 	github.com/miguelmota/go-ethereum-hdwallet => github.com/InjectiveLabs/go-ethereum-hdwallet v0.1.2

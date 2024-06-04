@@ -241,8 +241,8 @@ github.com/DataDog/zstd v1.4.5/go.mod h1:1jcaCB/ufaK+sKp1NBhlGmpz41jOoPQ35bpF36t
 github.com/DataDog/zstd v1.5.0/go.mod h1:g4AWEaM3yOg3HYfnJ3YIawPnVdXJh9QME85blwSAmyw=
 github.com/DataDog/zstd v1.5.2 h1:vUG4lAyuPCXO0TLbXvPv7EB7cNK1QV/luu55UHLrrn8=
 github.com/DataDog/zstd v1.5.2/go.mod h1:g4AWEaM3yOg3HYfnJ3YIawPnVdXJh9QME85blwSAmyw=
-github.com/DongCoNY/cometbft v0.37.2-inj-1.test.log.20 h1:F0qbJqtYKrMEXUsHX6hwZ0mc1PThiyODFSWS7qpj2LQ=
-github.com/DongCoNY/cometbft v0.37.2-inj-1.test.log.20/go.mod h1:Y2MMMN//O5K4YKd8ze4r9jmk4Y7h0ajqILXbH5JQFVs=
+github.com/DongCoNY/cometbft v0.37.2-inj-1.test.log.21 h1:M+M0Pdf2V+4CXkUhXvs0d3S2NaEQtahj6dlVwv/YK/g=
+github.com/DongCoNY/cometbft v0.37.2-inj-1.test.log.21/go.mod h1:Y2MMMN//O5K4YKd8ze4r9jmk4Y7h0ajqILXbH5JQFVs=
 github.com/HdrHistogram/hdrhistogram-go v1.1.2/go.mod h1:yDgFjdqOqDEKOvasDdhWNXYg9BVp4O+o5f6V/ehm6Oo=
 github.com/InjectiveLabs/bandchain-packet v0.0.4-inj-1 h1:ZnvCV/lzjWmBwuGbkAz+okucfJEyEzkU9GYK3tKU9cU=
 github.com/InjectiveLabs/bandchain-packet v0.0.4-inj-1/go.mod h1:QELTDYiwnbAqIgTF9zeKr+hVlK6eVyt6Nxmh6/1mmzQ=
