@@ -32,7 +32,7 @@ require (
 )
 
 require (
-	cosmossdk.io/math v1.1.2
+	cosmossdk.io/math v1.3.0
 	github.com/cometbft/cometbft v0.37.2
 	github.com/cosmology-tech/starship/registry v0.0.0-20231216113645-d0facbadb180
 	github.com/cosmos/go-bip39 v1.0.0
@@ -187,7 +187,7 @@ require (
 	gopkg.in/ini.v1 v1.67.0 // indirect
 	nhooyr.io/websocket v1.8.6 // indirect
 	pgregory.net/rapid v0.5.5 // indirect
-	sigs.k8s.io/yaml v1.3.0 // indirect
+	sigs.k8s.io/yaml v1.4.0 // indirect
 )
 
 replace (
